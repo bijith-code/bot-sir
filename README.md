@@ -1,4 +1,4 @@
-# KANNAPI 3.0
+# BIJITH-BOT
 Simple WhatsApp Bot
 
 ### FOR TERMUX USER
